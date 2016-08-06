@@ -1,0 +1,29 @@
+_repo: La-Navidad-en-las-Monta-as_10825
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Altamirano, Ignacio Manuel
+    aliases:
+    - Altamirano, I. M. (Ignacio Manuel)
+    - Altamirano, Ignacio M. (Ignacio Manuel)
+    birthdate: 1834
+    deathdate: 1893
+    gutenberg_agent_id: '3704'
+    url: http://www.gutenberg.org/2009/agents/3704
+    wikipedia: http://en.wikipedia.org/wiki/Ignacio_Manuel_Altamirano
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10825'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Christmas stories'
+- GITenberg
+title: La Navidad en las Montañas
+url: http://www.gutenberg.org/ebooks/10825
